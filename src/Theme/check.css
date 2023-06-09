@@ -1,0 +1,14 @@
+:root {
+    --text-color:#000000;
+    --bg-color:#ffffff;
+    --gradient: linear-gradient(239.26deg, #DDEEED 63.17%, #FDF1E0 94.92%);
+  }
+  
+  body {
+    background-image: var(--gradient);
+    background-color: transparent;
+  }
+
+  
+  /* Add any other styles here */
+  
